@@ -7,7 +7,7 @@
 For scripts to work properly, the following are required:
 <p></p>
 <p>* Python installed: https://www.python.org/downloads/</p>
-<p>* Pillow module installed. In terminal run this command: pip install Pillow</p>
+<p>* Pillow module installed. In terminal run this command: pip install pillow</p>
 
 
 <h1>Starting up</h1>
